@@ -117,7 +117,7 @@ function PageContent1() {
                        <div className="items_proiects">
                         <h3 id="proiectele-mele" className="proiectele_mele">Proiecte.</h3>  
                         <div className="proiects">
-                         <a href=" https://happy-thompson-5be3a7.netlify.app/"> <img src="images/amanet-app.png" alt="" /></a> 
+                         <a href=" https://amanet-mobile.netlify.app/"> <img src="images/amanet-app.png" alt="" /></a> 
                           <a href=" https://travell-romania.netlify.app/">   <img src="images/travel.png" alt="" />  </a>
                           <a href=" https://facebook-app1.netlify.app/"> <img src="images/facebook-clone.png" alt="" /> </a> 
                            <a href=" https://www.adelamaria.com/"> <img src="images/wordpress.png" alt="" /> </a>
